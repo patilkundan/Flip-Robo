@@ -1,0 +1,526 @@
+,airlines,departure_time,duration,price,No of days in advanced booked,class,from,to,onboarding_date
+0,SpiceJet,20:10,14h 20m,"5,347",1,Economy,Delhi,mumbai,6/01/2023
+1,Air Asia,04:55,8h 10m,"5,436",1,Economy,Delhi,mumbai,6/01/2023
+2,IndiGo,05:00,5h 05m,"5,947",1,Economy,Delhi,mumbai,6/01/2023
+3,IndiGo,05:00,5h 55m,"6,367",1,Economy,Delhi,mumbai,6/01/2023
+4,Vistara,11:40,2h 15m,"6,374",1,Economy,Delhi,mumbai,6/01/2023
+5,Go First,22:00,8h 50m,"6,451",1,Economy,Delhi,mumbai,6/01/2023
+6,IndiGo,23:40,6h 10m,"6,616",1,Economy,Delhi,mumbai,6/01/2023
+7,IndiGo,22:45,8h 40m,"6,655",1,Economy,Delhi,mumbai,6/01/2023
+8,Vistara,05:45,2h 15m,"6,794",1,Economy,Delhi,mumbai,6/01/2023
+9,Vistara,16:35,2h 30m,"6,794",1,Economy,Delhi,mumbai,6/01/2023
+10,Vistara,15:30,2h 05m,"6,795",1,Economy,Delhi,mumbai,6/01/2023
+11,Vistara,17:45,2h 10m,"6,795",1,Economy,Delhi,mumbai,6/01/2023
+12,Go First,05:00,5h 15m,"6,816",1,Economy,Delhi,mumbai,6/01/2023
+13,Go First,10:40,6h 05m,"6,873",1,Economy,Delhi,mumbai,6/01/2023
+14,Go First,10:25,8h 10m,"6,873",1,Economy,Delhi,mumbai,6/01/2023
+15,Go First,12:45,9h 45m,"6,873",1,Economy,Delhi,mumbai,6/01/2023
+16,Go First,21:30,10h 30m,"6,873",1,Economy,Delhi,mumbai,6/01/2023
+17,IndiGo,13:20,5h 20m,"6,979",1,Economy,Delhi,mumbai,6/01/2023
+18,IndiGo,23:40,8h 15m,"7,311",1,Economy,Delhi,mumbai,6/01/2023
+19,IndiGo,08:10,1h 55m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+20,Vistara,21:40,2h 00m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+21,Vistara,09:30,2h 05m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+22,SpiceJet,20:00,2h 05m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+23,Vistara,07:30,2h 10m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+24,Vistara,14:20,2h 10m,"7,319",1,Economy,Delhi,mumbai,6/01/2023
+0,Vistara Premium Economy,21:40,2h 00m,"8,621",1,Premium_Economy,Delhi,mumbai,6/01/2023
+1,Vistara Premium Economy,09:30,2h 05m,"8,621",1,Premium_Economy,Delhi,mumbai,6/01/2023
+2,Vistara Premium Economy,05:45,2h 15m,"8,621",1,Premium_Economy,Delhi,mumbai,6/01/2023
+3,Vistara Premium Economy,07:30,2h 10m,"8,622",1,Premium_Economy,Delhi,mumbai,6/01/2023
+4,Vistara Premium Economy,12:50,2h 10m,"8,622",1,Premium_Economy,Delhi,mumbai,6/01/2023
+5,Vistara Premium Economy,10:20,2h 15m,"8,622",1,Premium_Economy,Delhi,mumbai,6/01/2023
+6,Vistara Premium Economy,08:50,2h 25m,"8,622",1,Premium_Economy,Delhi,mumbai,6/01/2023
+7,Vistara Premium Economy,05:35,26h 45m,"10,823",1,Premium_Economy,Delhi,mumbai,6/01/2023
+8,Vistara Premium Economy,17:45,2h 10m,"11,646",1,Premium_Economy,Delhi,mumbai,6/01/2023
+9,Vistara Premium Economy,16:35,2h 30m,"11,646",1,Premium_Economy,Delhi,mumbai,6/01/2023
+10,Vistara Premium Economy,05:35,15h 05m,"11,943",1,Premium_Economy,Delhi,mumbai,6/01/2023
+11,Vistara Premium Economy,05:35,16h 05m,"11,943",1,Premium_Economy,Delhi,mumbai,6/01/2023
+12,Vistara Premium Economy,07:20,24h 55m,"13,774",1,Premium_Economy,Delhi,mumbai,6/01/2023
+13,Vistara Premium Economy,13:20,24h 45m,"14,726",1,Premium_Economy,Delhi,mumbai,6/01/2023
+14,Vistara Premium Economy,13:20,26h 30m,"14,726",1,Premium_Economy,Delhi,mumbai,6/01/2023
+15,Vistara Premium Economy,19:55,12h 25m,"14,743",1,Premium_Economy,Delhi,mumbai,6/01/2023
+16,Vistara Premium Economy,20:40,11h 35m,"15,118",1,Premium_Economy,Delhi,mumbai,6/01/2023
+17,Vistara Premium Economy,17:35,14h 40m,"15,118",1,Premium_Economy,Delhi,mumbai,6/01/2023
+18,Vistara Premium Economy,14:45,17h 30m,"15,118",1,Premium_Economy,Delhi,mumbai,6/01/2023
+19,Vistara Premium Economy,10:20,21h 55m,"15,118",1,Premium_Economy,Delhi,mumbai,6/01/2023
+20,Vistara Premium Economy,15:30,2h 05m,"15,846",1,Premium_Economy,Delhi,mumbai,6/01/2023
+21,Vistara Premium Economy,14:20,2h 10m,"15,846",1,Premium_Economy,Delhi,mumbai,6/01/2023
+22,Vistara Premium Economy,11:40,2h 15m,"15,846",1,Premium_Economy,Delhi,mumbai,6/01/2023
+23,Vistara Premium Economy,19:00,2h 15m,"15,846",1,Premium_Economy,Delhi,mumbai,6/01/2023
+24,Vistara Premium Economy,11:00,4h 50m,"15,846",1,Premium_Economy,Delhi,mumbai,6/01/2023
+0,Vistara Business,09:30,2h 05m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+1,Vistara Business,12:50,2h 10m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+2,Vistara Business,14:20,2h 10m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+3,Air India Business,20:00,2h 10m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+4,Vistara Business,05:45,2h 15m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+5,Air India Business,07:00,2h 15m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+6,Air India Business,21:20,2h 15m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+7,Air India Business,22:30,2h 15m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+8,Air India Business,08:00,2h 20m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+9,Air India Business,09:00,2h 20m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+10,Air India Business,14:00,2h 20m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+11,Air India Business,19:00,2h 25m,"25,612",1,Business,Delhi,mumbai,6/01/2023
+12,Vistara Business,13:25,5h 20m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+13,Vistara Business,21:20,8h 55m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+14,Vistara Business,06:30,12h 15m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+15,Vistara Business,21:20,12h 20m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+16,Vistara Business,13:25,16h 50m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+17,Vistara Business,13:25,20h 15m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+18,Vistara Business,06:30,23h 45m,"25,758",1,Business,Delhi,mumbai,6/01/2023
+19,Vistara Business,21:40,2h 00m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+20,Vistara Business,07:30,2h 10m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+21,Vistara Business,17:45,2h 10m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+22,Vistara Business,19:00,2h 15m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+23,Vistara Business,19:45,2h 15m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+24,Vistara Business,08:50,2h 25m,"30,104",1,Business,Delhi,mumbai,6/01/2023
+0,SpiceJet,20:10,14h 20m,"5,347",4,Economy,Delhi,mumbai,8/01/2023
+1,IndiGo,23:40,6h 10m,"5,503",4,Economy,Delhi,mumbai,8/01/2023
+2,IndiGo,22:00,7h 50m,"6,199",4,Economy,Delhi,mumbai,8/01/2023
+3,Go First,22:00,8h 50m,"6,327",4,Economy,Delhi,mumbai,8/01/2023
+4,Vistara,06:30,23h 45m,"6,454",4,Economy,Delhi,mumbai,8/01/2023
+5,Go First,06:00,4h 15m,"6,695",4,Economy,Delhi,mumbai,8/01/2023
+6,IndiGo,05:00,5h 55m,"6,728",4,Economy,Delhi,mumbai,8/01/2023
+7,IndiGo,23:40,8h 15m,"6,728",4,Economy,Delhi,mumbai,8/01/2023
+8,IndiGo,22:45,8h 40m,"6,775",4,Economy,Delhi,mumbai,8/01/2023
+9,Go First,10:25,8h 10m,"6,873",4,Economy,Delhi,mumbai,8/01/2023
+10,IndiGo,06:20,9h 50m,"7,029",4,Economy,Delhi,mumbai,8/01/2023
+11,IndiGo,08:10,1h 55m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+12,SpiceJet,18:50,2h 05m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+13,SpiceJet,20:00,2h 05m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+14,IndiGo,02:00,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+15,IndiGo,06:30,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+16,SpiceJet,07:00,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+17,IndiGo,15:45,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+18,IndiGo,16:25,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+19,IndiGo,17:25,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+20,IndiGo,21:45,2h 15m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+21,IndiGo,11:00,2h 20m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+22,IndiGo,18:30,2h 20m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+23,IndiGo,19:55,2h 20m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+24,IndiGo,23:00,2h 20m,"7,319",4,Economy,Delhi,mumbai,8/01/2023
+0,Vistara Premium Economy,06:30,23h 45m,"8,768",4,Premium_Economy,Delhi,mumbai,8/01/2023
+1,Vistara Premium Economy,09:30,2h 05m,"11,646",4,Premium_Economy,Delhi,mumbai,8/01/2023
+2,Vistara Premium Economy,07:30,2h 10m,"11,646",4,Premium_Economy,Delhi,mumbai,8/01/2023
+3,Vistara Premium Economy,08:50,2h 25m,"11,646",4,Premium_Economy,Delhi,mumbai,8/01/2023
+4,Vistara Premium Economy,13:20,24h 45m,"12,374",4,Premium_Economy,Delhi,mumbai,8/01/2023
+5,Vistara Premium Economy,11:00,27h 05m,"12,374",4,Premium_Economy,Delhi,mumbai,8/01/2023
+6,Vistara Premium Economy,07:10,18h 50m,"14,110",4,Premium_Economy,Delhi,mumbai,8/01/2023
+7,Vistara Premium Economy,13:20,26h 30m,"14,726",4,Premium_Economy,Delhi,mumbai,8/01/2023
+8,Vistara Premium Economy,07:10,17h 05m,"15,230",4,Premium_Economy,Delhi,mumbai,8/01/2023
+9,Vistara Premium Economy,18:40,7h 20m,"15,622",4,Premium_Economy,Delhi,mumbai,8/01/2023
+10,Vistara Premium Economy,21:40,2h 00m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+11,Vistara Premium Economy,15:30,2h 05m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+12,Vistara Premium Economy,12:50,2h 10m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+13,Vistara Premium Economy,14:20,2h 10m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+14,Vistara Premium Economy,17:45,2h 10m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+15,Vistara Premium Economy,11:40,2h 15m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+16,Vistara Premium Economy,19:00,2h 15m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+17,Vistara Premium Economy,19:45,2h 15m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+18,Vistara Premium Economy,16:35,2h 30m,"15,846",4,Premium_Economy,Delhi,mumbai,8/01/2023
+19,Vistara Premium Economy,21:20,8h 55m,"15,992",4,Premium_Economy,Delhi,mumbai,8/01/2023
+20,Vistara Premium Economy,21:20,12h 20m,"15,992",4,Premium_Economy,Delhi,mumbai,8/01/2023
+21,Vistara Premium Economy,21:20,21h 25m,"15,992",4,Premium_Economy,Delhi,mumbai,8/01/2023
+22,Vistara Premium Economy,07:20,24h 55m,"16,238",4,Premium_Economy,Delhi,mumbai,8/01/2023
+23,Vistara Premium Economy,18:40,5h 35m,"16,742",4,Premium_Economy,Delhi,mumbai,8/01/2023
+24,Vistara Premium Economy,06:55,28h 10m,"17,189",4,Premium_Economy,Delhi,mumbai,8/01/2023
+0,Vistara Business,07:30,2h 10m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+1,Air India Business,07:00,2h 15m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+2,Air India Business,21:20,2h 15m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+3,Air India Business,22:30,2h 15m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+4,Air India Business,08:00,2h 20m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+5,Air India Business,09:00,2h 20m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+6,Vistara Business,08:50,2h 25m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+7,Air India Business,19:00,2h 25m,"22,152",4,Business,Delhi,mumbai,8/01/2023
+8,Vistara Business,06:30,23h 45m,"22,297",4,Business,Delhi,mumbai,8/01/2023
+9,Air India Business,11:20,22h 15m,"29,805",4,Business,Delhi,mumbai,8/01/2023
+10,Air India Business,12:55,24h 50m,"29,805",4,Business,Delhi,mumbai,8/01/2023
+11,Air India Business,17:25,26h 00m,"29,806",4,Business,Delhi,mumbai,8/01/2023
+12,Vistara Business,19:00,2h 15m,"30,104",4,Business,Delhi,mumbai,8/01/2023
+13,Vistara Business,19:45,2h 15m,"30,104",4,Business,Delhi,mumbai,8/01/2023
+14,Vistara Business,06:30,12h 15m,"30,249",4,Business,Delhi,mumbai,8/01/2023
+15,Air India Business,08:30,13h 35m,"31,462",4,Business,Delhi,mumbai,8/01/2023
+16,Air India Business,07:05,9h 20m,"32,646",4,Business,Delhi,mumbai,8/01/2023
+17,Air India Business,18:40,21h 45m,"32,646",4,Business,Delhi,mumbai,8/01/2023
+18,Air India Business,05:00,12h 55m,"35,532",4,Business,Delhi,mumbai,8/01/2023
+19,Vistara Business,09:30,2h 05m,"37,048",4,Business,Delhi,mumbai,8/01/2023
+20,Vistara Business,21:20,8h 55m,"37,193",4,Business,Delhi,mumbai,8/01/2023
+21,Vistara Business,21:20,12h 20m,"37,193",4,Business,Delhi,mumbai,8/01/2023
+22,Vistara Business,21:20,21h 25m,"37,193",4,Business,Delhi,mumbai,8/01/2023
+23,Air India Business,12:45,5h 20m,"37,256",4,Business,Delhi,mumbai,8/01/2023
+24,Vistara Business,13:20,24h 45m,"37,417",4,Business,Delhi,mumbai,8/01/2023
+0,Go First,22:00,8h 05m,"4,592",5,Economy,Delhi,mumbai,9/01/2023
+1,Vistara,21:20,8h 55m,"4,716",5,Economy,Delhi,mumbai,9/01/2023
+2,IndiGo,23:40,6h 10m,"4,828",5,Economy,Delhi,mumbai,9/01/2023
+3,Air Asia,04:55,8h 10m,"5,068",5,Economy,Delhi,mumbai,9/01/2023
+4,IndiGo,22:00,7h 50m,"5,178",5,Economy,Delhi,mumbai,9/01/2023
+5,SpiceJet,20:10,14h 20m,"5,347",5,Economy,Delhi,mumbai,9/01/2023
+6,IndiGo,05:00,5h 55m,"5,718",5,Economy,Delhi,mumbai,9/01/2023
+7,IndiGo,22:45,8h 40m,"5,744",5,Economy,Delhi,mumbai,9/01/2023
+8,IndiGo,20:20,9h 30m,"5,779",5,Economy,Delhi,mumbai,9/01/2023
+9,Go First,06:00,10h 15m,"5,817",5,Economy,Delhi,mumbai,9/01/2023
+10,IndiGo,05:00,5h 05m,"5,839",5,Economy,Delhi,mumbai,9/01/2023
+11,Vistara,21:20,12h 20m,"5,929",5,Economy,Delhi,mumbai,9/01/2023
+12,Go First,06:00,4h 15m,"5,962",5,Economy,Delhi,mumbai,9/01/2023
+13,Go First,17:30,3h 55m,"6,327",5,Economy,Delhi,mumbai,9/01/2023
+14,Go First,17:30,5h 00m,"6,608",5,Economy,Delhi,mumbai,9/01/2023
+15,Go First,10:40,6h 00m,"6,873",5,Economy,Delhi,mumbai,9/01/2023
+16,Go First,11:05,7h 30m,"6,873",5,Economy,Delhi,mumbai,9/01/2023
+17,Go First,10:45,8h 45m,"6,873",5,Economy,Delhi,mumbai,9/01/2023
+18,Go First,12:45,9h 45m,"6,873",5,Economy,Delhi,mumbai,9/01/2023
+19,IndiGo,06:20,4h 35m,"6,908",5,Economy,Delhi,mumbai,9/01/2023
+20,IndiGo,06:20,9h 50m,"6,908",5,Economy,Delhi,mumbai,9/01/2023
+21,Air India,18:40,21h 45m,"6,974",5,Economy,Delhi,mumbai,9/01/2023
+22,IndiGo,05:10,9h 05m,"7,090",5,Economy,Delhi,mumbai,9/01/2023
+23,IndiGo,08:10,1h 55m,"7,319",5,Economy,Delhi,mumbai,9/01/2023
+24,Vistara,20:55,2h 00m,"7,319",5,Economy,Delhi,mumbai,9/01/2023
+0,Vistara Premium Economy,21:40,2h 00m,"8,621",5,Premium_Economy,Delhi,mumbai,9/01/2023
+1,Vistara Premium Economy,21:20,8h 55m,"8,768",5,Premium_Economy,Delhi,mumbai,9/01/2023
+2,Vistara Premium Economy,21:20,12h 20m,"8,768",5,Premium_Economy,Delhi,mumbai,9/01/2023
+3,Vistara Premium Economy,09:30,2h 05m,"11,646",5,Premium_Economy,Delhi,mumbai,9/01/2023
+4,Vistara Premium Economy,12:50,2h 10m,"11,646",5,Premium_Economy,Delhi,mumbai,9/01/2023
+5,Vistara Premium Economy,05:45,2h 15m,"11,646",5,Premium_Economy,Delhi,mumbai,9/01/2023
+6,Vistara Premium Economy,11:40,2h 15m,"11,646",5,Premium_Economy,Delhi,mumbai,9/01/2023
+7,Vistara Premium Economy,16:35,2h 30m,"11,646",5,Premium_Economy,Delhi,mumbai,9/01/2023
+8,Vistara Premium Economy,13:20,24h 45m,"12,374",5,Premium_Economy,Delhi,mumbai,9/01/2023
+9,Vistara Premium Economy,13:20,26h 30m,"12,374",5,Premium_Economy,Delhi,mumbai,9/01/2023
+10,Vistara Premium Economy,11:00,27h 05m,"12,374",5,Premium_Economy,Delhi,mumbai,9/01/2023
+11,Vistara Premium Economy,21:20,21h 25m,"12,525",5,Premium_Economy,Delhi,mumbai,9/01/2023
+12,Vistara Premium Economy,16:45,18h 30m,"14,110",5,Premium_Economy,Delhi,mumbai,9/01/2023
+13,Vistara Premium Economy,11:00,4h 50m,"14,726",5,Premium_Economy,Delhi,mumbai,9/01/2023
+14,Vistara Premium Economy,16:05,7h 15m,"14,743",5,Premium_Economy,Delhi,mumbai,9/01/2023
+15,Vistara Premium Economy,19:55,12h 25m,"14,743",5,Premium_Economy,Delhi,mumbai,9/01/2023
+16,Vistara Premium Economy,16:05,16h 15m,"14,743",5,Premium_Economy,Delhi,mumbai,9/01/2023
+17,Vistara Premium Economy,17:35,5h 35m,"15,118",5,Premium_Economy,Delhi,mumbai,9/01/2023
+18,Vistara Premium Economy,17:35,14h 40m,"15,118",5,Premium_Economy,Delhi,mumbai,9/01/2023
+19,Vistara Premium Economy,17:35,16h 25m,"15,118",5,Premium_Economy,Delhi,mumbai,9/01/2023
+20,Vistara Premium Economy,17:35,21h 00m,"15,118",5,Premium_Economy,Delhi,mumbai,9/01/2023
+21,Vistara Premium Economy,18:40,5h 35m,"15,622",5,Premium_Economy,Delhi,mumbai,9/01/2023
+22,Vistara Premium Economy,18:40,7h 20m,"15,622",5,Premium_Economy,Delhi,mumbai,9/01/2023
+23,Vistara Premium Economy,20:55,2h 00m,"15,846",5,Premium_Economy,Delhi,mumbai,9/01/2023
+24,Vistara Premium Economy,15:30,2h 05m,"15,846",5,Premium_Economy,Delhi,mumbai,9/01/2023
+0,Air India Business,20:00,2h 10m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+1,Vistara Business,05:45,2h 15m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+2,Air India Business,07:00,2h 15m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+3,Vistara Business,10:20,2h 15m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+4,Air India Business,21:20,2h 15m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+5,Air India Business,22:30,2h 15m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+6,Air India Business,08:00,2h 20m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+7,Vistara Business,08:50,2h 20m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+8,Air India Business,09:00,2h 20m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+9,Air India Business,10:00,2h 25m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+10,Air India Business,19:00,2h 25m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+11,Air India Business,14:30,3h 45m,"22,152",5,Business,Delhi,mumbai,9/01/2023
+12,Vistara Business,13:25,5h 20m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+13,Vistara Business,21:20,8h 55m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+14,Vistara Business,21:20,12h 20m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+15,Vistara Business,13:25,16h 50m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+16,Vistara Business,13:25,20h 15m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+17,Vistara Business,21:20,21h 25m,"22,297",5,Business,Delhi,mumbai,9/01/2023
+18,Air India Business,13:20,4h 55m,"29,622",5,Business,Delhi,mumbai,9/01/2023
+19,Air India Business,11:20,22h 15m,"29,805",5,Business,Delhi,mumbai,9/01/2023
+20,Air India Business,12:55,24h 50m,"29,805",5,Business,Delhi,mumbai,9/01/2023
+21,Air India Business,17:25,26h 00m,"29,806",5,Business,Delhi,mumbai,9/01/2023
+22,Air India Business,08:30,13h 35m,"31,462",5,Business,Delhi,mumbai,9/01/2023
+23,Air India Business,04:55,17h 10m,"31,462",5,Business,Delhi,mumbai,9/01/2023
+24,Air India Business,07:05,9h 20m,"32,646",5,Business,Delhi,mumbai,9/01/2023
+0,IndiGo,23:40,6h 10m,"4,828",6,Economy,Delhi,mumbai,10/01/2023
+1,IndiGo,23:40,8h 15m,"4,828",6,Economy,Delhi,mumbai,10/01/2023
+2,Go First,22:00,8h 50m,"4,853",6,Economy,Delhi,mumbai,10/01/2023
+3,Air Asia,04:55,8h 10m,"5,068",6,Economy,Delhi,mumbai,10/01/2023
+4,IndiGo,22:00,7h 50m,"5,178",6,Economy,Delhi,mumbai,10/01/2023
+5,IndiGo,22:00,9h 55m,"5,178",6,Economy,Delhi,mumbai,10/01/2023
+6,Go First,06:00,10h 15m,"5,252",6,Economy,Delhi,mumbai,10/01/2023
+7,SpiceJet,20:10,14h 20m,"5,347",6,Economy,Delhi,mumbai,10/01/2023
+8,IndiGo,20:20,9h 30m,"5,478",6,Economy,Delhi,mumbai,10/01/2023
+9,IndiGo,06:20,4h 35m,"5,503",6,Economy,Delhi,mumbai,10/01/2023
+10,IndiGo,11:05,5h 40m,"5,592",6,Economy,Delhi,mumbai,10/01/2023
+11,IndiGo,06:20,9h 50m,"5,698",6,Economy,Delhi,mumbai,10/01/2023
+12,IndiGo,22:45,8h 40m,"5,744",6,Economy,Delhi,mumbai,10/01/2023
+13,Go First,06:00,4h 15m,"5,817",6,Economy,Delhi,mumbai,10/01/2023
+14,SpiceJet,02:00,2h 15m,"5,950",6,Economy,Delhi,mumbai,10/01/2023
+15,IndiGo,05:10,9h 05m,"6,775",6,Economy,Delhi,mumbai,10/01/2023
+16,IndiGo,18:40,4h 55m,"6,814",6,Economy,Delhi,mumbai,10/01/2023
+17,Go First,10:40,6h 05m,"6,873",6,Economy,Delhi,mumbai,10/01/2023
+18,Go First,10:25,8h 10m,"6,873",6,Economy,Delhi,mumbai,10/01/2023
+19,Go First,12:45,9h 45m,"6,873",6,Economy,Delhi,mumbai,10/01/2023
+20,Air Asia,13:15,6h 40m,"7,011",6,Economy,Delhi,mumbai,10/01/2023
+21,Air Asia,20:00,6h 20m,"7,061",6,Economy,Delhi,mumbai,10/01/2023
+22,Air Asia,20:00,8h 00m,"7,061",6,Economy,Delhi,mumbai,10/01/2023
+23,Air Asia,20:00,10h 55m,"7,061",6,Economy,Delhi,mumbai,10/01/2023
+24,IndiGo,09:40,6h 30m,"7,294",6,Economy,Delhi,mumbai,10/01/2023
+0,Vistara Premium Economy,21:40,2h 00m,"8,621",6,Premium_Economy,Delhi,mumbai,10/01/2023
+1,Vistara Premium Economy,05:45,2h 15m,"8,621",6,Premium_Economy,Delhi,mumbai,10/01/2023
+2,Vistara Premium Economy,15:30,2h 05m,"8,622",6,Premium_Economy,Delhi,mumbai,10/01/2023
+3,Vistara Premium Economy,12:50,2h 10m,"8,622",6,Premium_Economy,Delhi,mumbai,10/01/2023
+4,Vistara Premium Economy,09:30,2h 05m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+5,Vistara Premium Economy,07:30,2h 10m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+6,Vistara Premium Economy,17:45,2h 10m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+7,Vistara Premium Economy,19:00,2h 15m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+8,Vistara Premium Economy,20:40,2h 15m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+9,Vistara Premium Economy,08:50,2h 25m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+10,Vistara Premium Economy,16:35,2h 30m,"11,646",6,Premium_Economy,Delhi,mumbai,10/01/2023
+11,Vistara Premium Economy,05:35,5h 50m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+12,Vistara Premium Economy,05:35,14h 40m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+13,Vistara Premium Economy,05:35,15h 05m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+14,Vistara Premium Economy,05:35,16h 05m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+15,Vistara Premium Economy,05:35,17h 45m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+16,Vistara Premium Economy,05:35,26h 45m,"11,943",6,Premium_Economy,Delhi,mumbai,10/01/2023
+17,Vistara Premium Economy,11:00,4h 50m,"12,374",6,Premium_Economy,Delhi,mumbai,10/01/2023
+18,Vistara Premium Economy,13:20,24h 45m,"12,374",6,Premium_Economy,Delhi,mumbai,10/01/2023
+19,Vistara Premium Economy,13:20,26h 30m,"12,374",6,Premium_Economy,Delhi,mumbai,10/01/2023
+20,Vistara Premium Economy,11:00,27h 05m,"12,374",6,Premium_Economy,Delhi,mumbai,10/01/2023
+21,Vistara Premium Economy,16:45,18h 30m,"14,110",6,Premium_Economy,Delhi,mumbai,10/01/2023
+22,Vistara Premium Economy,07:20,7h 15m,"15,118",6,Premium_Economy,Delhi,mumbai,10/01/2023
+23,Vistara Premium Economy,20:40,11h 35m,"15,118",6,Premium_Economy,Delhi,mumbai,10/01/2023
+24,Vistara Premium Economy,20:40,13h 20m,"15,118",6,Premium_Economy,Delhi,mumbai,10/01/2023
+0,Air India Business,20:00,2h 10m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+1,Vistara Business,05:45,2h 15m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+2,Air India Business,07:00,2h 15m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+3,Air India Business,21:20,2h 15m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+4,Air India Business,22:30,2h 15m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+5,Air India Business,08:00,2h 20m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+6,Air India Business,09:00,2h 20m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+7,Air India Business,10:00,2h 25m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+8,Air India Business,19:00,2h 25m,"22,152",6,Business,Delhi,mumbai,10/01/2023
+9,Air India Business,11:20,22h 15m,"29,805",6,Business,Delhi,mumbai,10/01/2023
+10,Air India Business,12:55,24h 50m,"29,805",6,Business,Delhi,mumbai,10/01/2023
+11,Air India Business,17:25,26h 00m,"29,806",6,Business,Delhi,mumbai,10/01/2023
+12,Air India Business,14:00,2h 20m,"30,092",6,Business,Delhi,mumbai,10/01/2023
+13,Air India Business,17:50,2h 25m,"30,092",6,Business,Delhi,mumbai,10/01/2023
+14,Vistara Business,19:45,2h 15m,"30,104",6,Business,Delhi,mumbai,10/01/2023
+15,Vistara Business,08:50,2h 25m,"30,104",6,Business,Delhi,mumbai,10/01/2023
+16,Vistara Business,21:20,8h 55m,"30,249",6,Business,Delhi,mumbai,10/01/2023
+17,Vistara Business,06:30,12h 15m,"30,249",6,Business,Delhi,mumbai,10/01/2023
+18,Vistara Business,21:20,12h 20m,"30,249",6,Business,Delhi,mumbai,10/01/2023
+19,Air India Business,18:40,21h 45m,"32,646",6,Business,Delhi,mumbai,10/01/2023
+20,Air India Business,05:00,12h 55m,"35,532",6,Business,Delhi,mumbai,10/01/2023
+21,Air India Business,21:15,20h 40m,"35,532",6,Business,Delhi,mumbai,10/01/2023
+22,Air India Business,14:15,27h 40m,"35,532",6,Business,Delhi,mumbai,10/01/2023
+23,Vistara Business,13:45,21h 30m,"36,577",6,Business,Delhi,mumbai,10/01/2023
+24,Vistara Business,09:30,2h 05m,"37,048",6,Business,Delhi,mumbai,10/01/2023
+0,IndiGo,23:40,6h 10m,"4,509",7,Economy,Delhi,mumbai,11/01/2023
+1,IndiGo,23:40,8h 15m,"4,648",7,Economy,Delhi,mumbai,11/01/2023
+2,IndiGo,05:00,5h 05m,"5,064",7,Economy,Delhi,mumbai,11/01/2023
+3,SpiceJet,20:10,14h 20m,"5,347",7,Economy,Delhi,mumbai,11/01/2023
+4,IndiGo,05:00,5h 55m,"5,383",7,Economy,Delhi,mumbai,11/01/2023
+5,IndiGo,11:05,5h 45m,"5,592",7,Economy,Delhi,mumbai,11/01/2023
+6,Air Asia,04:55,8h 10m,"5,668",7,Economy,Delhi,mumbai,11/01/2023
+7,IndiGo,05:10,9h 05m,"5,688",7,Economy,Delhi,mumbai,11/01/2023
+8,IndiGo,22:00,7h 50m,"5,760",7,Economy,Delhi,mumbai,11/01/2023
+9,IndiGo,20:20,9h 30m,"5,760",7,Economy,Delhi,mumbai,11/01/2023
+10,IndiGo,22:00,9h 55m,"5,898",7,Economy,Delhi,mumbai,11/01/2023
+11,SpiceJet,02:00,2h 15m,"5,950",7,Economy,Delhi,mumbai,11/01/2023
+12,IndiGo,13:20,5h 20m,"5,999",7,Economy,Delhi,mumbai,11/01/2023
+13,Go First,06:00,4h 15m,"6,192",7,Economy,Delhi,mumbai,11/01/2023
+14,IndiGo,13:20,6h 40m,"6,199",7,Economy,Delhi,mumbai,11/01/2023
+15,IndiGo,22:45,8h 40m,"6,235",7,Economy,Delhi,mumbai,11/01/2023
+16,IndiGo,18:40,4h 55m,"6,814",7,Economy,Delhi,mumbai,11/01/2023
+17,Go First,10:40,6h 00m,"6,873",7,Economy,Delhi,mumbai,11/01/2023
+18,Go First,10:25,8h 10m,"6,873",7,Economy,Delhi,mumbai,11/01/2023
+19,Go First,21:30,10h 30m,"6,873",7,Economy,Delhi,mumbai,11/01/2023
+20,Air India,07:05,9h 20m,"6,974",7,Economy,Delhi,mumbai,11/01/2023
+21,SpiceJet,18:50,2h 05m,"7,316",7,Economy,Delhi,mumbai,11/01/2023
+22,SpiceJet,20:00,2h 05m,"7,316",7,Economy,Delhi,mumbai,11/01/2023
+23,SpiceJet,07:00,2h 15m,"7,316",7,Economy,Delhi,mumbai,11/01/2023
+24,Vistara,21:40,2h 00m,"7,319",7,Economy,Delhi,mumbai,11/01/2023
+0,Vistara Premium Economy,21:40,2h 00m,"8,621",7,Premium_Economy,Delhi,mumbai,11/01/2023
+1,Vistara Premium Economy,09:30,2h 05m,"8,621",7,Premium_Economy,Delhi,mumbai,11/01/2023
+2,Vistara Premium Economy,05:45,2h 15m,"8,621",7,Premium_Economy,Delhi,mumbai,11/01/2023
+3,Vistara Premium Economy,11:40,2h 15m,"8,621",7,Premium_Economy,Delhi,mumbai,11/01/2023
+4,Vistara Premium Economy,15:30,2h 05m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+5,Vistara Premium Economy,07:30,2h 10m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+6,Vistara Premium Economy,12:50,2h 10m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+7,Vistara Premium Economy,10:20,2h 15m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+8,Vistara Premium Economy,20:40,2h 15m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+9,Vistara Premium Economy,16:35,2h 30m,"8,622",7,Premium_Economy,Delhi,mumbai,11/01/2023
+10,Vistara Premium Economy,08:10,24h 10m,"10,823",7,Premium_Economy,Delhi,mumbai,11/01/2023
+11,Vistara Premium Economy,08:10,26h 00m,"10,823",7,Premium_Economy,Delhi,mumbai,11/01/2023
+12,Vistara Premium Economy,05:35,26h 45m,"10,823",7,Premium_Economy,Delhi,mumbai,11/01/2023
+13,Vistara Premium Economy,13:20,24h 45m,"11,254",7,Premium_Economy,Delhi,mumbai,11/01/2023
+14,Vistara Premium Economy,13:20,26h 30m,"11,254",7,Premium_Economy,Delhi,mumbai,11/01/2023
+15,Vistara Premium Economy,11:00,27h 05m,"11,254",7,Premium_Economy,Delhi,mumbai,11/01/2023
+16,Vistara Premium Economy,14:20,2h 10m,"11,646",7,Premium_Economy,Delhi,mumbai,11/01/2023
+17,Vistara Premium Economy,17:45,2h 10m,"11,646",7,Premium_Economy,Delhi,mumbai,11/01/2023
+18,Vistara Premium Economy,19:45,2h 15m,"11,646",7,Premium_Economy,Delhi,mumbai,11/01/2023
+19,Vistara Premium Economy,08:50,2h 25m,"11,646",7,Premium_Economy,Delhi,mumbai,11/01/2023
+20,Vistara Premium Economy,05:35,5h 50m,"11,943",7,Premium_Economy,Delhi,mumbai,11/01/2023
+21,Vistara Premium Economy,08:10,12h 30m,"11,943",7,Premium_Economy,Delhi,mumbai,11/01/2023
+22,Vistara Premium Economy,08:10,13h 30m,"11,943",7,Premium_Economy,Delhi,mumbai,11/01/2023
+23,Vistara Premium Economy,05:35,15h 05m,"11,943",7,Premium_Economy,Delhi,mumbai,11/01/2023
+24,Vistara Premium Economy,08:10,15h 10m,"11,943",7,Premium_Economy,Delhi,mumbai,11/01/2023
+0,Air India Business,20:00,2h 10m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+1,Vistara Business,05:45,2h 15m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+2,Air India Business,07:00,2h 15m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+3,Vistara Business,10:20,2h 15m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+4,Air India Business,21:20,2h 15m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+5,Air India Business,22:30,2h 15m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+6,Air India Business,08:00,2h 20m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+7,Air India Business,09:00,2h 20m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+8,Air India Business,10:00,2h 25m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+9,Air India Business,14:30,3h 45m,"22,152",7,Business,Delhi,mumbai,11/01/2023
+10,Vistara Business,21:20,12h 20m,"22,297",7,Business,Delhi,mumbai,11/01/2023
+11,Vistara Business,13:25,20h 15m,"22,297",7,Business,Delhi,mumbai,11/01/2023
+12,Vistara Business,21:20,21h 25m,"22,297",7,Business,Delhi,mumbai,11/01/2023
+13,Air India Business,11:20,22h 15m,"29,805",7,Business,Delhi,mumbai,11/01/2023
+14,Air India Business,12:55,24h 50m,"29,805",7,Business,Delhi,mumbai,11/01/2023
+15,Air India Business,17:25,26h 00m,"29,806",7,Business,Delhi,mumbai,11/01/2023
+16,Air India Business,14:00,2h 20m,"30,092",7,Business,Delhi,mumbai,11/01/2023
+17,Air India Business,17:50,2h 25m,"30,092",7,Business,Delhi,mumbai,11/01/2023
+18,Air India Business,19:00,2h 25m,"30,092",7,Business,Delhi,mumbai,11/01/2023
+19,Vistara Business,07:30,2h 10m,"30,104",7,Business,Delhi,mumbai,11/01/2023
+20,Vistara Business,19:00,2h 15m,"30,104",7,Business,Delhi,mumbai,11/01/2023
+21,Vistara Business,08:50,2h 25m,"30,104",7,Business,Delhi,mumbai,11/01/2023
+22,Vistara Business,21:20,8h 55m,"30,249",7,Business,Delhi,mumbai,11/01/2023
+23,Vistara Business,18:00,12h 15m,"30,249",7,Business,Delhi,mumbai,11/01/2023
+24,Vistara Business,18:00,15h 40m,"30,249",7,Business,Delhi,mumbai,11/01/2023
+0,Air India Business,21:05,1h 50m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+1,Vistara Business,06:00,1h 55m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+2,Air India Business,16:35,2h 05m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+3,Vistara Business,11:55,2h 10m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+4,Air India Business,07:00,2h 15m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+5,Air India Business,08:00,2h 15m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+6,Air India Business,13:00,2h 15m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+7,Vistara Business,21:55,2h 15m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+8,Air India Business,18:00,2h 20m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+9,Air India Business,19:00,2h 20m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+10,Vistara Business,12:25,2h 25m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+11,Air India Business,15:30,2h 25m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+12,Air India Business,07:20,3h 50m,"25,600",1,Economy,mumbai,Delhi,06/01/2023
+13,Vistara Business,23:10,1h 50m,"30,092",1,Economy,mumbai,Delhi,06/01/2023
+14,Vistara Business,06:30,2h 05m,"30,092",1,Economy,mumbai,Delhi,06/01/2023
+15,Vistara Business,07:30,2h 10m,"30,092",1,Economy,mumbai,Delhi,06/01/2023
+16,Vistara Business,14:40,2h 15m,"30,092",1,Economy,mumbai,Delhi,06/01/2023
+17,Vistara Business,22:40,9h 15m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+18,Vistara Business,22:40,11h 40m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+19,Vistara Business,15:20,16h 35m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+20,Vistara Business,22:40,18h 30m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+21,Vistara Business,15:20,19h 00m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+22,Vistara Business,22:40,23h 20m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+23,Vistara Business,15:20,25h 50m,"30,237",1,Economy,mumbai,Delhi,06/01/2023
+24,Air India Business,18:35,14h 50m,"34,810",1,Economy,mumbai,Delhi,06/01/2023
+0,Air India Business,21:05,1h 50m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+1,Vistara Business,06:00,1h 55m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+2,Air India Business,16:35,2h 05m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+3,Vistara Business,11:55,2h 10m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+4,Air India Business,07:00,2h 15m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+5,Air India Business,08:00,2h 15m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+6,Air India Business,13:00,2h 15m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+7,Vistara Business,21:55,2h 15m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+8,Air India Business,18:00,2h 20m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+9,Air India Business,19:00,2h 20m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+10,Vistara Business,12:25,2h 25m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+11,Air India Business,15:30,2h 25m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+12,Air India Business,07:20,3h 50m,"25,600",1,Premium_Economy,mumbai,Delhi,06/01/2023
+13,Vistara Business,23:10,1h 50m,"30,092",1,Premium_Economy,mumbai,Delhi,06/01/2023
+14,Vistara Business,06:30,2h 05m,"30,092",1,Premium_Economy,mumbai,Delhi,06/01/2023
+15,Vistara Business,07:30,2h 10m,"30,092",1,Premium_Economy,mumbai,Delhi,06/01/2023
+16,Vistara Business,14:40,2h 15m,"30,092",1,Premium_Economy,mumbai,Delhi,06/01/2023
+17,Vistara Business,22:40,9h 15m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+18,Vistara Business,22:40,11h 40m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+19,Vistara Business,15:20,16h 35m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+20,Vistara Business,22:40,18h 30m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+21,Vistara Business,15:20,19h 00m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+22,Vistara Business,22:40,23h 20m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+23,Vistara Business,15:20,25h 50m,"30,237",1,Premium_Economy,mumbai,Delhi,06/01/2023
+24,Air India Business,18:35,14h 50m,"34,810",1,Premium_Economy,mumbai,Delhi,06/01/2023
+0,Air India Business,21:05,1h 50m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+1,Vistara Business,06:00,1h 55m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+2,Air India Business,16:35,2h 05m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+3,Vistara Business,11:55,2h 10m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+4,Air India Business,07:00,2h 15m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+5,Air India Business,08:00,2h 15m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+6,Air India Business,13:00,2h 15m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+7,Vistara Business,21:55,2h 15m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+8,Air India Business,18:00,2h 20m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+9,Air India Business,19:00,2h 20m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+10,Vistara Business,12:25,2h 25m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+11,Air India Business,15:30,2h 25m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+12,Air India Business,07:20,3h 50m,"25,600",1,Business,mumbai,Delhi,06/01/2023
+13,Vistara Business,23:10,1h 50m,"30,092",1,Business,mumbai,Delhi,06/01/2023
+14,Vistara Business,06:30,2h 05m,"30,092",1,Business,mumbai,Delhi,06/01/2023
+15,Vistara Business,07:30,2h 10m,"30,092",1,Business,mumbai,Delhi,06/01/2023
+16,Vistara Business,14:40,2h 15m,"30,092",1,Business,mumbai,Delhi,06/01/2023
+17,Vistara Business,22:40,9h 15m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+18,Vistara Business,22:40,11h 40m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+19,Vistara Business,15:20,16h 35m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+20,Vistara Business,22:40,18h 30m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+21,Vistara Business,15:20,19h 00m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+22,Vistara Business,22:40,23h 20m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+23,Vistara Business,15:20,25h 50m,"30,237",1,Business,mumbai,Delhi,06/01/2023
+24,Air India Business,18:35,14h 50m,"34,810",1,Business,mumbai,Delhi,06/01/2023
+0,IndiGo,00:30,5h 15m,"6,156",4,Economy,mumbai,Delhi,08/01/2023
+1,Air Asia,15:15,7h 50m,"6,206",4,Economy,mumbai,Delhi,08/01/2023
+2,IndiGo,00:30,7h 10m,"6,556",4,Economy,mumbai,Delhi,08/01/2023
+3,Go First,17:15,4h 00m,"6,863",4,Economy,mumbai,Delhi,08/01/2023
+4,Go First,13:40,6h 25m,"6,863",4,Economy,mumbai,Delhi,08/01/2023
+5,Go First,17:15,7h 35m,"6,863",4,Economy,mumbai,Delhi,08/01/2023
+6,Go First,13:30,7h 45m,"6,863",4,Economy,mumbai,Delhi,08/01/2023
+7,Go First,12:55,8h 20m,"6,863",4,Economy,mumbai,Delhi,08/01/2023
+8,Vistara,23:10,1h 50m,"7,307",4,Economy,mumbai,Delhi,08/01/2023
+9,Vistara,06:30,2h 05m,"7,307",4,Economy,mumbai,Delhi,08/01/2023
+10,Vistara,07:30,2h 10m,"7,307",4,Economy,mumbai,Delhi,08/01/2023
+11,Vistara,15:45,2h 20m,"7,307",4,Economy,mumbai,Delhi,08/01/2023
+12,Vistara,20:55,2h 05m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+13,Go First,05:50,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+14,Go First,08:45,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+15,Go First,09:55,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+16,Vistara,11:55,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+17,IndiGo,12:05,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+18,IndiGo,14:35,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+19,Go First,19:10,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+20,Go First,20:15,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+21,Go First,22:55,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+22,IndiGo,23:15,2h 10m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+23,IndiGo,02:30,2h 15m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+24,IndiGo,05:00,2h 15m,"7,308",4,Economy,mumbai,Delhi,08/01/2023
+0,Vistara Premium Economy,23:10,1h 50m,"8,609",4,Premium_Economy,mumbai,Delhi,08/01/2023
+1,Vistara Premium Economy,06:30,2h 05m,"8,609",4,Premium_Economy,mumbai,Delhi,08/01/2023
+2,Vistara Premium Economy,20:55,2h 05m,"8,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+3,Vistara Premium Economy,07:30,2h 10m,"8,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+4,Vistara Premium Economy,08:45,2h 15m,"8,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+5,Vistara Premium Economy,10:20,2h 20m,"8,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+6,Vistara Premium Economy,12:25,2h 25m,"8,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+7,Vistara Premium Economy,12:15,26h 25m,"11,242",4,Premium_Economy,mumbai,Delhi,08/01/2023
+8,Vistara Premium Economy,10:30,4h 10m,"14,714",4,Premium_Economy,mumbai,Delhi,08/01/2023
+9,Vistara Premium Economy,12:15,4h 30m,"14,714",4,Premium_Economy,mumbai,Delhi,08/01/2023
+10,Vistara Premium Economy,10:30,6h 15m,"14,714",4,Premium_Economy,mumbai,Delhi,08/01/2023
+11,Vistara Premium Economy,22:50,25h 50m,"15,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+12,Vistara Premium Economy,20:55,27h 45m,"15,610",4,Premium_Economy,mumbai,Delhi,08/01/2023
+13,Vistara Premium Economy,18:30,2h 10m,"15,834",4,Premium_Economy,mumbai,Delhi,08/01/2023
+14,Vistara Premium Economy,19:45,2h 10m,"15,834",4,Premium_Economy,mumbai,Delhi,08/01/2023
+15,Vistara Premium Economy,21:55,2h 15m,"15,834",4,Premium_Economy,mumbai,Delhi,08/01/2023
+16,Vistara Premium Economy,22:40,9h 15m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+17,Vistara Premium Economy,22:40,11h 40m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+18,Vistara Premium Economy,15:20,16h 35m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+19,Vistara Premium Economy,22:40,18h 30m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+20,Vistara Premium Economy,15:20,19h 00m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+21,Vistara Premium Economy,15:20,25h 50m,"15,980",4,Premium_Economy,mumbai,Delhi,08/01/2023
+22,Vistara Premium Economy,19:10,27h 45m,"17,177",4,Premium_Economy,mumbai,Delhi,08/01/2023
+23,Vistara Premium Economy,06:45,7h 10m,"17,436",4,Premium_Economy,mumbai,Delhi,08/01/2023
+24,Vistara Premium Economy,06:45,13h 10m,"17,436",4,Premium_Economy,mumbai,Delhi,08/01/2023
+0,Vistara Business,07:30,2h 10m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+1,Air India Business,07:00,2h 15m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+2,Air India Business,21:20,2h 15m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+3,Air India Business,22:30,2h 15m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+4,Air India Business,08:00,2h 20m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+5,Air India Business,09:00,2h 20m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+6,Vistara Business,08:50,2h 25m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+7,Air India Business,10:00,2h 25m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+8,Air India Business,17:50,2h 25m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+9,Air India Business,19:00,2h 25m,"22,152",4,Business,mumbai,Delhi,08/01/2023
+10,Vistara Business,06:30,23h 45m,"22,297",4,Business,mumbai,Delhi,08/01/2023
+11,Air India Business,11:20,22h 15m,"29,805",4,Business,mumbai,Delhi,08/01/2023
+12,Air India Business,12:55,24h 50m,"29,805",4,Business,mumbai,Delhi,08/01/2023
+13,Air India Business,17:25,26h 00m,"29,806",4,Business,mumbai,Delhi,08/01/2023
+14,Vistara Business,19:00,2h 15m,"30,104",4,Business,mumbai,Delhi,08/01/2023
+15,Vistara Business,19:45,2h 15m,"30,104",4,Business,mumbai,Delhi,08/01/2023
+16,Vistara Business,06:30,12h 15m,"30,249",4,Business,mumbai,Delhi,08/01/2023
+17,Air India Business,08:30,13h 35m,"31,462",4,Business,mumbai,Delhi,08/01/2023
+18,Air India Business,07:05,9h 20m,"32,646",4,Business,mumbai,Delhi,08/01/2023
+19,Air India Business,18:40,21h 45m,"32,646",4,Business,mumbai,Delhi,08/01/2023
+20,Air India Business,05:00,12h 55m,"35,532",4,Business,mumbai,Delhi,08/01/2023
+21,Vistara Business,09:30,2h 05m,"37,048",4,Business,mumbai,Delhi,08/01/2023
+22,Vistara Business,21:20,8h 55m,"37,193",4,Business,mumbai,Delhi,08/01/2023
+23,Vistara Business,21:20,12h 20m,"37,193",4,Business,mumbai,Delhi,08/01/2023
+24,Vistara Business,21:20,21h 25m,"37,193",4,Business,mumbai,Delhi,08/01/2023
