@@ -1,0 +1,30 @@
+Q1 ANS d) Collinearity
+Q2 ANS b) Random Forest
+Q3 ANS c) Decision Tree are prone to overfit
+Q4 ANS c) Training data
+Q5 ANS c) Anamoly detection
+Q6 ANS c) Case based
+Q7 ANS d) Both a and b
+Q8 ANS c) Both a and b
+Q9 ANS c) 3
+Q10 ANS c) Linear regression
+Q11 ANS c) Neither feature nor number of groups is known
+Q12 ANS b) SVG
+Q13 ANS b) Underfitting
+Q14 ANS a) Reinforcement learning
+Q15 ANS b) Mean squared error
+Q16 ANS c) Nonlinear, binary
+Q17 ANS A. supervised learning
+Q18 ANS C. both a and b
+Q19 ANS A. removing columns which have too many missing values
+Q20 ANS C. input attribute.
+Q21 ANS (A) SVM allows very low error in classification
+Q22 ANS (B) Only 2
+Q23 ANS (A) -(6/10 log(6/10) + 4/10 log(4/10))
+Q24 ANS (A) weights are regularized with the l1 norm
+Q25 ANS (A) Perceptron and logistic regression
+Q26 ANS (D) Either 2 or 3
+Q27 ANS (B) increase by 5 pound
+Q28 ANS (A) Pass through as many points as possible.
+Q29 ANS (B) As the value of one attribute increases the value of the second attribute also increases
+Q30 ANS (B) Convolutional Neural Network
